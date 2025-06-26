@@ -1,2 +1,2 @@
 # PowerBI
-Here it includes Power Bi projects 
+Here it includes Power Bi Projects and Dashboards 
